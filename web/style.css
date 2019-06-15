@@ -1,0 +1,42 @@
+body {
+    background-color: #000;
+    color: #fff;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+object {
+    border: 0;
+    width: 380px;
+    height: 400px;
+    margin: 8px;
+    padding: 0;
+}
+
+
+h1 {
+    color: #FF4400;
+    text-align: center;
+    margin: 0;
+    padding: 10px;
+    line-height: 1em;
+    font-size: 20px;
+}
+
+.open {
+    color: #00FF44;
+}
+
+#footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+    font-size: 10px;
+    margin: 0;
+    padding: 2px;
+    border-top: 1px solid #999999;
+}
